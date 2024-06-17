@@ -1,6 +1,6 @@
 # Bus Booking Management System
 
-**Author: Dharma Surya R,**  
+**Author: Dharma Surya R**  
 **Institution: PSG College of Arts & Science, Coimbatore, India**
 
 ## Table of Contents
